@@ -1,0 +1,3 @@
+pyMysql
+lxml
+pyquery
